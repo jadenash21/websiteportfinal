@@ -1,0 +1,25 @@
+{
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  margin:0 auto;
+  width: 1000px:auto;
+}
+
+.hello-atom-me {
+  width: 300px;
+}
+div {
+  color: #FFF;
+  background-color: #5995DA;
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid #5D6063;
+  border-radius: 5px;
+}
+.boxed {
+  border: 1px solid green ;
+}
